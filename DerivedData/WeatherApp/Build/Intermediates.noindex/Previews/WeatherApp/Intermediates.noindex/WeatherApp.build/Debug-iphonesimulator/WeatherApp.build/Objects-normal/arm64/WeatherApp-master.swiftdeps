@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "4fd5417d26f3058227ae3d1ad8b89d3029bb78e6fca77e46ff1fbab6679280be"
+build_start_time: [1689602972, 71597000]
+build_end_time: [1689602972, 935609000]
+inputs:
+  "/Users/aarongrincewicz/Desktop/POP_Course/WeatherApp/WeatherApp/WeatherApp/ContentView.swift": [1689602912, 158538477]
+  "/Users/aarongrincewicz/Desktop/POP_Course/WeatherApp/WeatherApp/WeatherApp/WeatherAppApp.swift": [1689602555, 824980212]

@@ -1,0 +1,12 @@
+{
+  "source": "/Users/aarongrincewicz/Desktop/POP_Course/WeatherApp/WeatherApp/WeatherApp/ContentView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Enter City"
+      }
+    ]
+  },
+  "version": 1
+}
