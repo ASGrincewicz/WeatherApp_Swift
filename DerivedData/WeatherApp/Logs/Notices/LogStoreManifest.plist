@@ -6,90 +6,6 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>729F0532-BE5D-4BDB-A4D2-6F8E2ECB44CB</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>729F0532-BE5D-4BDB-A4D2-6F8E2ECB44CB.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>signature</key>
-			<string>eyJ0eXBlIjp7ImJsdWVwcmludCI6e319LCJibHVlcHJpbnRfcHJvdmlkZXJGaWxlUGF0aFN0cmluZyI6IlwvVXNlcnNcL2Fhcm9uZ3JpbmNld2ljelwvRGVza3RvcFwvUE9QX0NvdXJzZVwvV2VhdGhlckFwcFwvV2VhdGhlckFwcFwvV2VhdGhlckFwcC54Y29kZXByb2oiLCJibHVlcHJpbnRfYmx1ZXByaW50SWRlbnRpZmllciI6IjBGMDQ4QjQ3MkE2NTgxN0IwMDQzRTk4NiJ9</string>
-			<key>timeStartedRecording</key>
-			<real>711295857.65989995</real>
-			<key>timeStoppedRecording</key>
-			<real>63113904000</real>
-			<key>title</key>
-			<string>Build WeatherApp</string>
-			<key>uniqueIdentifier</key>
-			<string>729F0532-BE5D-4BDB-A4D2-6F8E2ECB44CB</string>
-		</dict>
-		<key>81190A03-B60A-4643-BB4A-DF6D8D5F3EC3</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>81190A03-B60A-4643-BB4A-DF6D8D5F3EC3.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>signature</key>
-			<string>eyJ0eXBlIjp7ImJsdWVwcmludCI6e319LCJibHVlcHJpbnRfcHJvdmlkZXJGaWxlUGF0aFN0cmluZyI6IlwvVXNlcnNcL2Fhcm9uZ3JpbmNld2ljelwvRGVza3RvcFwvUE9QX0NvdXJzZVwvV2VhdGhlckFwcFwvV2VhdGhlckFwcFwvV2VhdGhlckFwcC54Y29kZXByb2oiLCJibHVlcHJpbnRfYmx1ZXByaW50SWRlbnRpZmllciI6IjBGMDQ4QjQ3MkE2NTgxN0IwMDQzRTk4NiJ9</string>
-			<key>timeStartedRecording</key>
-			<real>711295857.65989995</real>
-			<key>timeStoppedRecording</key>
-			<real>711295859.44034004</real>
-			<key>title</key>
-			<string>Build WeatherApp</string>
-			<key>uniqueIdentifier</key>
-			<string>81190A03-B60A-4643-BB4A-DF6D8D5F3EC3</string>
-		</dict>
-		<key>9B5911B8-2E93-4622-A4D2-4ACD143B9425</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>9B5911B8-2E93-4622-A4D2-4ACD143B9425.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>signature</key>
-			<string>eyJ0eXBlIjp7ImJsdWVwcmludFByb3ZpZGVyIjp7fX0sImJsdWVwcmludFByb3ZpZGVyX3Byb3ZpZGVyRmlsZVBhdGhTdHJpbmciOiJcL1VzZXJzXC9hYXJvbmdyaW5jZXdpY3pcL0Rlc2t0b3BcL1BPUF9Db3Vyc2VcL1dlYXRoZXJBcHBcL1dlYXRoZXJBcHBcL1dlYXRoZXJBcHAueGNvZGVwcm9qIn0=</string>
-			<key>timeStartedRecording</key>
-			<real>711295857.65989995</real>
-			<key>timeStoppedRecording</key>
-			<real>711295859.44034004</real>
-			<key>title</key>
-			<string>Build WeatherApp</string>
-			<key>uniqueIdentifier</key>
-			<string>9B5911B8-2E93-4622-A4D2-4ACD143B9425</string>
-		</dict>
 		<key>BFB7DF56-FA34-4137-BD27-868B5EC98434</key>
 		<dict>
 			<key>className</key>
@@ -117,6 +33,90 @@
 			<string>Build WeatherApp</string>
 			<key>uniqueIdentifier</key>
 			<string>BFB7DF56-FA34-4137-BD27-868B5EC98434</string>
+		</dict>
+		<key>C3B4A43B-338D-4A7A-AD7A-81F4048F68D7</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C3B4A43B-338D-4A7A-AD7A-81F4048F68D7.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7ImJsdWVwcmludFByb3ZpZGVyIjp7fX0sImJsdWVwcmludFByb3ZpZGVyX3Byb3ZpZGVyRmlsZVBhdGhTdHJpbmciOiJcL1VzZXJzXC9hYXJvbmdyaW5jZXdpY3pcL0Rlc2t0b3BcL1BPUF9Db3Vyc2VcL1dlYXRoZXJBcHBcL1dlYXRoZXJBcHBcL1dlYXRoZXJBcHAueGNvZGVwcm9qIn0=</string>
+			<key>timeStartedRecording</key>
+			<real>711295857.65989995</real>
+			<key>timeStoppedRecording</key>
+			<real>711295859.44034004</real>
+			<key>title</key>
+			<string>Build WeatherApp</string>
+			<key>uniqueIdentifier</key>
+			<string>C3B4A43B-338D-4A7A-AD7A-81F4048F68D7</string>
+		</dict>
+		<key>DC6C7AAE-2C49-4B88-B0CA-F8C5657D75AA</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>DC6C7AAE-2C49-4B88-B0CA-F8C5657D75AA.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7ImJsdWVwcmludCI6e319LCJibHVlcHJpbnRfcHJvdmlkZXJGaWxlUGF0aFN0cmluZyI6IlwvVXNlcnNcL2Fhcm9uZ3JpbmNld2ljelwvRGVza3RvcFwvUE9QX0NvdXJzZVwvV2VhdGhlckFwcFwvV2VhdGhlckFwcFwvV2VhdGhlckFwcC54Y29kZXByb2oiLCJibHVlcHJpbnRfYmx1ZXByaW50SWRlbnRpZmllciI6IjBGMDQ4QjQ3MkE2NTgxN0IwMDQzRTk4NiJ9</string>
+			<key>timeStartedRecording</key>
+			<real>711295857.65989995</real>
+			<key>timeStoppedRecording</key>
+			<real>711295859.44034004</real>
+			<key>title</key>
+			<string>Build WeatherApp</string>
+			<key>uniqueIdentifier</key>
+			<string>DC6C7AAE-2C49-4B88-B0CA-F8C5657D75AA</string>
+		</dict>
+		<key>FA2FA9F9-CAD9-49FC-8692-1EF258F1A6E4</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>FA2FA9F9-CAD9-49FC-8692-1EF258F1A6E4.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7ImJ1aWxkU3lzdGVtVGFzayI6e319LCJidWlsZFN5c3RlbVRhc2tfYnVpbGRUYXNrIjoiUHJlcGFyZSBidWlsZCJ9</string>
+			<key>timeStartedRecording</key>
+			<real>711295857.65989995</real>
+			<key>timeStoppedRecording</key>
+			<real>711295859.44034004</real>
+			<key>title</key>
+			<string>Build WeatherApp</string>
+			<key>uniqueIdentifier</key>
+			<string>FA2FA9F9-CAD9-49FC-8692-1EF258F1A6E4</string>
 		</dict>
 	</dict>
 </dict>
