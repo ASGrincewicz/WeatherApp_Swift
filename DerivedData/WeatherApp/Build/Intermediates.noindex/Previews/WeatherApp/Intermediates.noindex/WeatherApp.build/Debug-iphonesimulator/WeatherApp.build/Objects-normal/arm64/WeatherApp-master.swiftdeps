@@ -1,7 +1,11 @@
 version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
 options: "4fd5417d26f3058227ae3d1ad8b89d3029bb78e6fca77e46ff1fbab6679280be"
-build_start_time: [1689602972, 71597000]
-build_end_time: [1689602972, 935609000]
+build_start_time: [1689790960, 714854000]
+build_end_time: [1689790961, 507050000]
 inputs:
-  "/Users/aarongrincewicz/Desktop/POP_Course/WeatherApp/WeatherApp/WeatherApp/ContentView.swift": [1689602912, 158538477]
+  "/Users/aarongrincewicz/Desktop/POP_Course/WeatherApp/WeatherApp/WeatherApp/ContentView.swift": [1689790960, 477800411]
+  "/Users/aarongrincewicz/Desktop/POP_Course/WeatherApp/WeatherApp/WeatherApp/Model/JSONMappers/OpenWeatherMapData.swift": [1689690100, 850039365]
+  "/Users/aarongrincewicz/Desktop/POP_Course/WeatherApp/WeatherApp/WeatherApp/Model/OpenWeatherMapController.swift": [1689790702, 127917295]
+  "/Users/aarongrincewicz/Desktop/POP_Course/WeatherApp/WeatherApp/WeatherApp/Model/WebServiceController.swift": [1689690100, 836442037]
+  "/Users/aarongrincewicz/Desktop/POP_Course/WeatherApp/WeatherApp/WeatherApp/ViewModel/WeatherViewModel.swift": [1689790059, 523163067]
   "/Users/aarongrincewicz/Desktop/POP_Course/WeatherApp/WeatherApp/WeatherApp/WeatherAppApp.swift": [1689602555, 824980212]

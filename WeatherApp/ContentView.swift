@@ -8,19 +8,30 @@
 import SwiftUI
 
 struct ContentView: View {
-	
 	@State private var input: String = ""
-    var body: some View {
-		VStack{
-			TextField("Enter City", text: $input ).font(.title)
+	
+	@ObservedObject var weatherViewModel = WeatherViewModel()
+	
+	var body: some View {
+		VStack {
+			TextField("Enter city or ZIP", text: $input, onEditingChanged: { (_) in
+			}) {
+				if !self.input.isEmpty {
+					self.weatherViewModel.fetch(city: self.input)
+				}
+			}
+			.font(.title)
+			
 			Divider()
-			Text(input).font(.body)
+			
+			Text("\(weatherViewModel.weatherInfo)")
+				.font(.body)
 		}.padding()
-    }
+	}
 }
 
 struct ContentView_Previews: PreviewProvider {
-    static var previews: some View {
-        ContentView()
-    }
+	static var previews: some View {
+		ContentView()
+	}
 }
