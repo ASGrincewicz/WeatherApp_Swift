@@ -1,0 +1,55 @@
+{
+  "buildCommand" : {
+    "command" : "preview"
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "3d8e83889405234185e8a0f156f83e5fae4a232ec67a896f6225fdb39ed2e0ab"
+    }
+  ],
+  "containerPath" : "/Users/aarongrincewicz/Desktop/POP_Course/WeatherApp/WeatherApp/WeatherApp.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator16.4",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/aarongrincewicz/Desktop/POP_Course/WeatherApp/WeatherApp/DerivedData/WeatherApp/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/aarongrincewicz/Desktop/POP_Course/WeatherApp/WeatherApp/DerivedData/WeatherApp/Build/Products",
+      "derivedDataPath" : "/Users/aarongrincewicz/Desktop/POP_Course/WeatherApp/WeatherApp/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/aarongrincewicz/Desktop/POP_Course/WeatherApp/WeatherApp/DerivedData/WeatherApp/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/aarongrincewicz/Desktop/POP_Course/WeatherApp/WeatherApp/DerivedData/WeatherApp/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/aarongrincewicz/Desktop/POP_Course/WeatherApp/WeatherApp/DerivedData/WeatherApp/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "DSTROOT" : "/Users/aarongrincewicz/Desktop/POP_Course/WeatherApp/WeatherApp/DerivedData/WeatherApp/Build/Intermediates.noindex/Previews/WeatherApp/ReleaseProducts",
+          "ENABLE_PREVIEWS" : "YES",
+          "OBJROOT" : "/Users/aarongrincewicz/Desktop/POP_Course/WeatherApp/WeatherApp/DerivedData/WeatherApp/Build/Intermediates.noindex/Previews/WeatherApp/Intermediates.noindex",
+          "SYMROOT" : "/Users/aarongrincewicz/Desktop/POP_Course/WeatherApp/WeatherApp/DerivedData/WeatherApp/Build/Intermediates.noindex/Previews/WeatherApp/Products"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

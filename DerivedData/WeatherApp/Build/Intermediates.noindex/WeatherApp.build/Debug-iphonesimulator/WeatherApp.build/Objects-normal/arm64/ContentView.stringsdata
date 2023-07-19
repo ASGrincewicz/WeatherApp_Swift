@@ -4,7 +4,11 @@
     "Localizable": [
       {
         "comment": "",
-        "key": "Enter City"
+        "key": "%@"
+      },
+      {
+        "comment": "",
+        "key": "Enter city"
       }
     ]
   },

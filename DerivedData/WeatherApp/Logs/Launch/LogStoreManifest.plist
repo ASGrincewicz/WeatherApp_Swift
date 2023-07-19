@@ -6,6 +6,141 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
+		<key>22D7080E-44CD-4B69-B7C8-61982BEEA600</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>98355783-CFE6-4CDD-8315-B8FD332F4869</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-WeatherApp-2023.07.19_14-14-52--0400.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WeatherApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WeatherApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run WeatherApp</string>
+			<key>timeStartedRecording</key>
+			<real>711483292.85441899</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run WeatherApp</string>
+			<key>uniqueIdentifier</key>
+			<string>22D7080E-44CD-4B69-B7C8-61982BEEA600</string>
+		</dict>
+		<key>63D92433-2AF5-448E-9220-6BCCB576C7E5</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>78C19DB0-B40E-4F1E-871B-FB13F3F414FA</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-WeatherApp-2023.07.19_14-18-22--0400.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WeatherApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WeatherApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run WeatherApp</string>
+			<key>timeStartedRecording</key>
+			<real>711483502.159971</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run WeatherApp</string>
+			<key>uniqueIdentifier</key>
+			<string>63D92433-2AF5-448E-9220-6BCCB576C7E5</string>
+		</dict>
+		<key>82779A40-6C66-47C5-9507-A5656D1DC279</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>369F5C59-DCBE-4E87-B5B7-BF5122A003A7</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-WeatherApp-2023.07.19_14-11-08--0400.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WeatherApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WeatherApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run WeatherApp</string>
+			<key>timeStartedRecording</key>
+			<real>711483068.45488703</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run WeatherApp</string>
+			<key>uniqueIdentifier</key>
+			<string>82779A40-6C66-47C5-9507-A5656D1DC279</string>
+		</dict>
 		<key>85B583FA-A746-49AF-9321-55AD77FA6E9B</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
@@ -50,6 +185,51 @@
 			<string>Run WeatherApp</string>
 			<key>uniqueIdentifier</key>
 			<string>85B583FA-A746-49AF-9321-55AD77FA6E9B</string>
+		</dict>
+		<key>E4B3C479-557B-41C9-8EB0-FD51327CB01C</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>A95E57E4-3D3E-469A-9348-0326886ED39E</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-WeatherApp-2023.07.19_14-20-43--0400.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WeatherApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WeatherApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run WeatherApp</string>
+			<key>timeStartedRecording</key>
+			<real>711483643.15916097</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run WeatherApp</string>
+			<key>uniqueIdentifier</key>
+			<string>E4B3C479-557B-41C9-8EB0-FD51327CB01C</string>
 		</dict>
 	</dict>
 </dict>
